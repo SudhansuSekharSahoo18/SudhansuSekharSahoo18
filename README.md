@@ -11,6 +11,7 @@ Currently, I'm exploring the intersection of **software engineering, AI and educ
 ## 🚀 What I'm Working On
 
 ### 🧠 KTUYS (AI-Powered Learning Platform)
+https://www.ktuys.com/
 
 I'm building a learning platform designed for students preparing for competitive exams.
 
